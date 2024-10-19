@@ -1,0 +1,58 @@
+.clgimg{
+    width: 98.7vw;
+}
+
+.princi{
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px 2px;
+}
+
+.princi img{
+    height: 15rem;
+}
+
+.blueRow{
+    width: 100%;
+}
+
+.box{
+    text-align: center;
+    width: 100%;
+    height: 8rem;
+    color: white;
+    font-size: 3rem;
+}
+
+.running{
+    white-space: nowrap;
+    background-image: linear-gradient(to right bottom, #204a84, rgb(49, 211, 252));
+}
+
+.running p {
+    overflow: visible;
+    animation-name: runningtext;
+    position: relative;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    margin: 0;
+    padding: 0;
+}
+p {
+    font-size: 1rem;
+}
+.running p a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+@keyframes runningtext {
+    0% {
+        left: 100%;
+    }
+    
+    100% {
+        left: -100%;
+    }
+}
