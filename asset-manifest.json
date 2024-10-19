@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/IP-Lab-6/static/css/main.37e28be6.css",
+    "main.js": "/IP-Lab-6/static/js/main.a6c0fb74.js",
+    "static/js/453.d675a741.chunk.js": "/IP-Lab-6/static/js/453.d675a741.chunk.js",
+    "static/media/college.jpg": "/IP-Lab-6/static/media/college.7b37d7a303324fa287f4.jpg",
+    "static/media/princi.png": "/IP-Lab-6/static/media/princi.8521e5fc7854e3964817.png",
+    "static/media/navlogo.png": "/IP-Lab-6/static/media/navlogo.fd0575bc414bc0a6faf9.png",
+    "static/media/location.png": "/IP-Lab-6/static/media/location.4486e3d12a6d8597a5de.png",
+    "static/media/logo.svg": "/IP-Lab-6/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/IP-Lab-6/index.html",
+    "main.37e28be6.css.map": "/IP-Lab-6/static/css/main.37e28be6.css.map",
+    "main.a6c0fb74.js.map": "/IP-Lab-6/static/js/main.a6c0fb74.js.map",
+    "453.d675a741.chunk.js.map": "/IP-Lab-6/static/js/453.d675a741.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37e28be6.css",
+    "static/js/main.a6c0fb74.js"
+  ]
+}
